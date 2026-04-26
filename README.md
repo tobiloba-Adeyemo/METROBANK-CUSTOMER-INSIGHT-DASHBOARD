@@ -85,45 +85,47 @@ Tenure analysis reveals 164 loyal customers, 199 engaged, and 137 new, highlight
 
 ## Key Insights and Analysis  
 
-Customer Demographics and Income: MetroBank serves a diverse customer base with stable average income ($114K) and balanced age distribution. Boomers lead slightly, suggesting higher earning power among older customers.  
+**Customer Demographics and Income:** MetroBank serves a diverse customer base with stable average income ($114K) and balanced age distribution. Boomers lead slightly, suggesting higher earning power among older customers.  
 
-Gender and Regional Distribution: The near‑equal gender split reflects inclusivity, while regional disparities (East vs. West) highlight areas for targeted growth strategies.  
+**Gender and Regional Distribution:** The near‑equal gender split reflects inclusivity, while regional disparities (East vs. West) highlight areas for targeted growth strategies.  
 
-Customer Tenure and Loyalty: With 199 engaged customers forming the largest group, MetroBank has a strong foundation for retention. Converting new customers into loyal ones remains a critical opportunity.  
+**Customer Tenure and Loyalty:** With 199 engaged customers forming the largest group, MetroBank has a strong foundation for retention. Converting new customers into loyal ones remains a critical opportunity.  
 
-Customer Segmentation: Retail dominates the portfolio, underscoring MetroBank’s strength in consumer banking. Corporate and Private segments are smaller but represent potential for specialized growth.  
+**Customer Segmentation:** Retail dominates the portfolio, underscoring MetroBank’s strength in consumer banking. Corporate and Private segments are smaller but represent potential for specialized growth.  
 
-Income Trend (2015–2024): The upward trajectory until 2023 followed by a dip in 2024 suggests external market challenges or customer churn. This requires proactive measures to stabilize income streams.  
+**Income Trend (2015–2024):** The upward trajectory until 2023 followed by a dip in 2024 suggests external market challenges or customer churn. This requires proactive measures to stabilize income streams.  
 ## Regional Customer Distribution  
 
-Balanced Gender Base: The customer portfolio is evenly split between Female (49%) and Male (51%). This balance indicates that MetroBank’s services appeal broadly across genders, reducing reliance on a single demographic group.  
+**Balanced Gender Base:** The customer portfolio is evenly split between Female (49%) and Male (51%). This balance indicates that MetroBank’s services appeal broadly across genders, reducing reliance on a single demographic group.  
 
-Regional Strengths: The East region leads with 139 customers, closely followed by North (137) and South (137). These regions represent MetroBank’s strongest footholds, suggesting that existing strategies are resonating well with customers in these areas.  
+**Regional Strengths:** The East region leads with 139 customers, closely followed by North (137) and South (137). These regions represent MetroBank’s strongest footholds, suggesting that existing strategies are resonating well with customers in these areas.  
 
-Underrepresented Region: The West trails with 110 customers, making it the smallest segment. This gap highlights an opportunity for targeted marketing campaigns or tailored product offerings to strengthen MetroBank’s presence in the West.  
+**Underrepresented Region:** The West trails with 110 customers, making it the smallest segment. This gap highlights an opportunity for targeted marketing campaigns or tailored product offerings to strengthen MetroBank’s presence in the West.  
 <img width="194" height="264" alt="image" src="https://github.com/user-attachments/assets/2bf5c775-54e7-4c66-840a-b4990a993599" />
 ## Customer Segment Breakdown  
 
-Growth Drivers: Retail customers (286) represent the largest and most influential segment, driving the majority of MetroBank’s customer base. Their dominant position highlights the strength of MetroBank’s consumer banking services and the effectiveness of retail‑focused strategies.  
+**Growth Drivers:** Retail customers (286) represent the largest and most influential segment, driving the majority of MetroBank’s customer base. Their dominant position highlights the strength of MetroBank’s consumer banking services and the effectiveness of retail‑focused strategies.  
 
-Stable Performers: Corporate customers (169) maintain a consistent presence, contributing steadily to the portfolio. While not as dominant as retail, this segment shows reliable engagement and offers opportunities for tailored corporate solutions to enhance growth.  
+**Stable Performers:** Corporate customers (169) maintain a consistent presence, contributing steadily to the portfolio. While not as dominant as retail, this segment shows reliable engagement and offers opportunities for tailored corporate solutions to enhance growth.  
 
-Lagging Categories: Private customers (46) form the smallest segment, indicating limited penetration in high‑net‑worth or specialized banking services. This suggests a need for revised strategies—such as premium product offerings or personalized relationship management—to expand this segment.  
+**Lagging Categories:** Private customers (46) form the smallest segment, indicating limited penetration in high‑net‑worth or specialized banking services. This suggests a need for revised strategies—such as premium product offerings or personalized relationship management—to expand this segment.  
 <img width="199" height="277" alt="image" src="https://github.com/user-attachments/assets/893922e0-e68e-4d9a-8a35-7713f1161185" />
 
 ## Business Recommendations  
 
-Capitalize on Retail Dominance: With Retail customers (286) forming the largest segment, MetroBank should strengthen consumer banking strategies by expanding product offerings, loyalty programs, and targeted marketing campaigns to maximize this high‑volume base.  
+**Capitalize on Retail Dominance:** With Retail customers (286) forming the largest segment, MetroBank should strengthen consumer banking strategies by expanding product offerings, loyalty programs, and targeted marketing campaigns to maximize this high‑volume base.  
 
-Expand Corporate Engagement: Corporate customers (169) provide steady contributions but remain underleveraged. Developing specialized financial solutions, such as tailored credit facilities or corporate advisory services, can unlock further growth in this segment.  
+**Expand Corporate Engagement:** Corporate customers (169) provide steady contributions but remain underleveraged. Developing specialized financial solutions, such as tailored credit facilities or corporate advisory services, can unlock further growth in this segment.  
 
-Revitalize Private Banking: Private customers (46) represent the smallest group, signaling limited penetration in high‑net‑worth markets. Introducing premium services, personalized relationship management, and exclusive investment products could help grow this segment.  
+**Revitalize Private Banking:** Private customers (46) represent the smallest group, signaling limited penetration in high‑net‑worth markets. Introducing premium services, personalized relationship management, and exclusive investment products could help grow this segment.  
 
-Address Regional Imbalances: The East region leads with 139 customers, while the West lags at 110. MetroBank should deploy targeted outreach and localized campaigns to strengthen its presence in underrepresented regions.  
+**Address Regional Imbalances:** The East region leads with 139 customers, while the West lags at 110. MetroBank should deploy targeted outreach and localized campaigns to strengthen its presence in underrepresented regions.  
 
-Stabilize Income Trends: The decline in 2024 after years of modest growth suggests external pressures or customer attrition. Proactive measures such as retention programs, cross‑selling, and income diversification strategies are recommended to stabilize and grow revenue streams.  
+**Stabilize Income Trends:** The decline in 2024 after years of modest growth suggests external pressures or customer attrition. Proactive measures such as retention programs, cross‑selling, and income diversification strategies are recommended to stabilize and grow revenue streams.  
 
 Convert Engaged to Loyal: With 199 engaged customers forming the largest tenure group, MetroBank has a strong base to nurture. Focused retention initiatives, personalized offers, and improved customer experience can convert these into long‑term loyal customers.  
+---
+Thank you for reading! Leave a comment if you have any questions about the analysis.
 
 
 
