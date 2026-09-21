@@ -123,8 +123,8 @@ Tenure analysis reveals 164 loyal customers, 199 engaged, and 137 new, highlight
 
 **Stabilize Income Trends:** The decline in 2024 after years of modest growth suggests external pressures or customer attrition. Proactive measures such as retention programs, cross‑selling, and income diversification strategies are recommended to stabilize and grow revenue streams.  
 
-**Convert Engaged to Loyal:** With 199 engaged customers forming the largest tenure group, MetroBank has a strong base to nurture. Focused retention initiatives, personalized offers, and improved customer experience can convert these into long‑term loyal customers.  
 ---
+
 Thank you for reading! Leave a comment if you have any questions about the analysis.
 
 
